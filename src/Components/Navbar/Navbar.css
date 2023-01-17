@@ -1,0 +1,65 @@
+.logo-icon {
+    Width: 120.26px;
+    height: 56px;
+
+}
+
+.bg {
+    width: 90%;
+    margin: 0px auto;
+    color: white;
+    margin: 30px auto 1px;
+}
+
+.navbar-light .bg-light {
+    background-color: transparent;
+}
+
+.search {
+    width: 370px;
+    height: 44px;
+    border-radius: 5px;
+    border: 1px solid #FFFFFF;
+    margin: 0px 0px 0px 60px;
+}
+
+.nav-item {
+    max-height: 100px;
+    width: 57%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 30px;
+}
+
+.nav-item a {
+    color: white;
+    font-family: 'Montserrat';
+    text-decoration: none;
+    font-size: 16px;
+    transition: all .2s linear;
+
+}
+
+.active {
+    color: #F9A51A !important;
+
+}
+
+.form--control {
+
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+#inputID::placeholder {
+    color: #ffffff;
+    opacity: 1;
+}
+
+/* line styl */
+
+.nav-item a:hover {
+    border-bottom: 1px solid tomato;
+    color: white;
+}

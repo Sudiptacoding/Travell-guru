@@ -1,0 +1,116 @@
+.Card-container {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 80vh;
+}
+
+.total-area {
+    margin-top: 13%;
+    margin-bottom: 0px;
+}
+
+.Card-image-section div {
+    width: 109%;
+    position: relative;
+}
+
+.Card-image-section div h2 {
+    position: absolute;
+    bottom: 0;
+    text-transform: uppercase;
+    margin-left: 31px;
+    font-size: 36px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.Card-image-section img {
+    width: 270px;
+    height: 416px;
+    border-radius: 20px;
+}
+
+.Card-image-section .slick-current img {
+    border: 4px solid #FBBC04;
+    border-radius: 20px;
+}
+
+.Card-text-section {
+    width: 50%;
+    padding: 0px 92px;
+}
+
+.Card-image-section {
+    width: 50%;
+}
+
+.slider {
+    width: 50%;
+}
+
+.Card-image-section .slick-prev {
+    display: none !important;
+}
+
+.Card-image-section .slick-next {
+    display: none !important;
+}
+
+.Card-text-section .slick-prev {
+    display: block !important;
+    position: absolute;
+    margin-top: 65%;
+    margin-left: 110%;
+}
+
+.Card-text-section .slick-next {
+    display: block !important;
+    position: absolute;
+    margin-top: 65%;
+    margin-right: -18%;
+}
+
+.Card-text-section .slick-prev::before {
+    font-family: 'slick';
+    font-size: 70px;
+    line-height: 1;
+    opacity: .75;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+}
+
+.Card-text-section .slick-next::before {
+    font-family: 'slick';
+    font-size: 70px;
+    line-height: 1;
+    opacity: .75;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* text */
+.Card-text-section div h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 97.6842px;
+    line-height: 117px;
+    color: #FFFFFF;
+}
+
+.Card-text-section div p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.Card-text-section div button {
+    border-radius: 5px;
+}

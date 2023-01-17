@@ -1,0 +1,9 @@
+.all--bg{
+    background: linear-gradient( rgb(0 0 0 / 69%), rgb(0 0 0 / 40%)), url(https://i.postimg.cc/13r6TRLB/Rectangle-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-position-y: 100%;
+    overflow: hidden;
+}

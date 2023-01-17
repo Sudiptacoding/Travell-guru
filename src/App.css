@@ -1,0 +1,111 @@
+.box__Booking__h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 97.6842px;
+    line-height: 117px;
+    color: #FFFFFF;
+}
+
+.box__Booking__p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* Booking Style */
+.booking___container {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.booking__text__container {
+    width: 50%;
+    padding: 0px 92px;
+}
+
+.booking__form__container {
+    width: 50%;
+}
+
+.booking__form__container form {
+    width: 478px;
+    height: 427px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: 0px auto;
+    padding-left: 30px;
+    line-height: 47px;
+
+}
+
+.booking__form__container form input {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.booking__form__container form label {
+    width: 100%;
+}
+
+.booking__form__container form .first__inp_book {
+    width: 417px;
+    height: 60px;
+}
+
+.booking__form__container form .secend__inp_book {
+    width: 417px;
+    height: 60px;
+}
+
+.__From__To {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+}
+
+.__From__sec {
+    width: 200px;
+
+}
+
+.__From__sec input {
+    width: 200px;
+    height: 60px;
+}
+
+.__To__sec {
+    width: 200px;
+}
+
+.__To__sec input {
+    width: 200px;
+    height: 60px;
+}
+
+.booking__form__container form button {
+    width: 417px;
+    height: 60px;
+    background: #F9A51A;
+    border-radius: 5px;
+    margin: 22px 0px 0px 0px;
+
+}
+
+/* button */
+.more___detles__button {
+    width: 161px;
+    height: 48px;
+    background: #F9A51A;
+    border-radius: 5px;
+    background-color:#F9A51A ;
+}

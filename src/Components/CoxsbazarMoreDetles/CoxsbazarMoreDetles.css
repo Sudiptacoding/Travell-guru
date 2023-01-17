@@ -1,0 +1,56 @@
+.detles-coxsbazar {
+    background-color: #ffffff42;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+.Hotel-detles {
+    width: 50%;
+
+}
+
+.map-detles {
+    width: 39%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.Hotel-detles {
+
+    width: 60%;
+}
+
+.Hotel-detles img {
+    width: 270px;
+    height: 188px;
+}
+
+.room-box {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 23px 0px;
+    padding: 0px 54px;
+}
+
+.map-and-room {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.hotel-detls {
+    font-weight: 500;
+    font-family: 'Montserrat';
+    line-height: 29px;
+}
+
+.deltes {
+    width: 87%;
+    margin: 0px  auto;
+    padding: 3px 0px 0px;
+}

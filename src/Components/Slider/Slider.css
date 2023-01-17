@@ -1,0 +1,17 @@
+.Slider{
+    background-color: red;
+    height: 50vh;
+}
+.Slider div{
+    background-color: black;
+    color: white;
+    width: 275px;
+    height: 50vh;
+    margin: 0px auto;
+}
+.Slider img{
+    width: 100%;
+}
+.active{
+    border: 2px solid black;
+}

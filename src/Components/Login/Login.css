@@ -1,0 +1,100 @@
+.login-form-container {
+    width: 570px;
+    height: 660px;
+    margin: 50px auto;
+    position: relative;
+    background-color: white;
+}
+
+.google-signin-button img {
+    width: 31px;
+    height: 31px;
+}
+
+.form-container {
+    width: 570px;
+    height: 591px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+    padding: 39px;
+    line-height: 10px;
+
+
+}
+
+.login-form-container .form-container input {
+    border-bottom: 2px solid #C5C5C5;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.toggol-change {
+    position: absolute;
+    margin-top: -56px;
+    margin-left: 134px;
+}
+
+.toggol-change button {
+    border: none;
+    background-color: transparent;
+    color: #F9A51A;
+    font-weight: 700;
+    border-bottom: 1px solid;
+}
+
+.form-group {
+    margin: 20px 0px;
+}
+
+.form-group button {
+    margin: 0px 5px;
+    width: 217px;
+}
+
+.google-signin-button button {
+    width: 457px;
+    height: 51px;
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    border-radius: 57px;
+}
+
+.google-signin-button {
+    margin: 17px auto;
+    width: 81%;
+}
+
+.login-form {
+    width: 100%;
+    height: 572px;
+    margin: 0px auto;
+    position: relative;
+    background-color: white;
+}
+
+.login-form form {
+    height: 374px;
+    padding-top: 12%;
+    line-height: 56px;
+}
+
+.login-form form input {
+    width: 100%;
+}
+
+.login-form form button {
+    width: 100%;
+    margin: 35px 0px;
+    background-color: antiquewhite;
+    color: black;
+    font-weight: 800;
+    border-radius: 5px;
+}
+.forget-button{
+    float: right;
+}
+.forget-button button{
+    padding: 5px;
+}
